@@ -2,7 +2,8 @@
 
 ## This Repository will contain all my solidwork projects
 
-- [Pizza Vending Machine](themachine.SLDASM)
-  ---> [Rendered](render1.jpg)
+- [SolidWorks file for Pizza Vending Machine](themachine.SLDASM)
+
+  ---> [Rendered image of the machine](render1.jpg)
 
 - update 
