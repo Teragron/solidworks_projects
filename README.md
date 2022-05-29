@@ -4,7 +4,7 @@
 
 - [SolidWorks file for Pizza Vending Machine](themachine.SLDASM)
 
-![]([gits/algorithm.png](render1.jpg)
+![](render1.jpg)
 
 
 
