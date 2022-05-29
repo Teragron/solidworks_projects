@@ -2,7 +2,7 @@
 
 ## This Repository will contain all my solidwork projects
 
-- [SolidWorks file for Pizza Vending Machine](themachine.SLDASM)
+- [Pizza Vending Machine (Click for SolidWorks file)](themachine.SLDASM)
 
 ![](render1.jpg)
 
